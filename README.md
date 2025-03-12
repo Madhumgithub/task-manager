@@ -42,13 +42,6 @@ The server will run on **http://localhost:3000** 🚀
 
 ---
 
-## 📸 Screenshots
-| Home Page  | Task List |
-|------------|------------|
-| ![Home](https://via.placeholder.com/400x250.png?text=Home+Page) | ![Tasks](https://via.placeholder.com/400x250.png?text=Task+List) |
-
----
-
 ## 📌 API Endpoints
 | Method | Endpoint | Description |
 |--------|----------|------------|
