@@ -67,7 +67,6 @@ This project is **open-source** and available under the **MIT License**.
 ---
 
 ## 📞 Contact
-📧 Email: your-email@example.com  
 🔗 GitHub: [Madhumgithub](https://github.com/Madhumgithub)  
 
 ---
